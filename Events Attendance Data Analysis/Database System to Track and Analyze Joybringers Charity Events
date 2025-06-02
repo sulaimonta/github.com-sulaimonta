@@ -1,0 +1,5 @@
+Tool: Python, MySQL and Power BI  | 2025
+Gathered requirements and identified essential data points for event tracking purposes.
+Designed an E-R Diagram to define tables, fields, and relationships for efficient data storage.
+Created the database using MySQL and migrated historical data while ensuring accuracy and consistency throughout.
+Integrated the database with Power BI to enable real-time reporting, visualization, and insightful event analysis.
